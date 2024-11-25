@@ -1,0 +1,28 @@
+Android là hệ điều hành dựa trên nền tảng nào?
+A. Windows
+B. Linux
+C. macOS
+D. UNIX
+ANSWER: B
+
+Activity trong Android là gì?
+A. Thành phần giao diện của ứng dụng.
+B. Một màn hình đơn lẻ của ứng dụng.
+C. Tệp cấu hình của ứng dụng.
+D. Dữ liệu tạm thời của ứng dụng.
+ANSWER: B
+
+Service trong Android được sử dụng để làm gì?
+A. Hiển thị giao diện người dùng.
+B. Chạy các tác vụ trong nền.
+C. Quản lý cơ sở dữ liệu.
+D. Tạo thông báo cho người dùng.
+ANSWER: B
+
+Content Provider trong Android dùng để làm gì?
+A. Lưu trữ dữ liệu người dùng trên cloud.
+B. Chia sẻ dữ liệu giữa các ứng dụng.
+C. Xử lý sự kiện giao diện.
+D. Hiển thị thông báo lỗi.
+ANSWER: B
+

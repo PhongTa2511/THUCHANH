@@ -1,0 +1,87 @@
+/* Đặt font chung */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Header */
+h1 {
+    text-align: center;
+    background: #007BFF;
+    color: white;
+    padding: 20px 0;
+    margin: 0;
+}
+
+/* Container chính */
+form, .container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+/* Câu hỏi */
+p {
+    font-size: 1.2em;
+}
+
+/* Đáp án */
+label {
+    display: block;
+    margin: 5px 0;
+    font-size: 1em;
+}
+
+/* Nút nộp bài */
+button {
+    display: block;
+    width: 100%;
+    background: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+/* Kết quả */
+.result {
+    text-align: center;
+    padding: 20px;
+    background: #28a745;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.result p {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+/* Liên kết làm lại bài thi */
+a {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    color: #007BFF;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+a:hover {
+    text-decoration: underline;
+}
